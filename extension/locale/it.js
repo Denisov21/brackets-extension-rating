@@ -33,7 +33,7 @@ define(function (require, exports, module){
         badgeNew: 'Nuova',
         badgeNewTitle: 'Nuova estensione',
         badgeStarsTitle: 'Estensione più diffusa su GitHub', //0.4.0
-        badgeForksTitle: 'Estensione con più Folk su GitHub', //0.4.0
+        badgeForksTitle: 'Estensione con più popolare su GitHub', //0.4.0
         /*END of BADGES*/
 
         //Detailed info about ##
